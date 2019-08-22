@@ -16,6 +16,8 @@ protocol TopMainViewDelegate: NSObjectProtocol{
 
 extension TopMainViewDelegate {
     
+    
+    
 }
 // MARK: - Property
 class TopMainView: BaseView {
