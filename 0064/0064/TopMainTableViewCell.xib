@@ -18,7 +18,7 @@
                 <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
                 <autoresizingMask key="autoresizingMask"/>
             </tableViewCellContentView>
-            <color key="backgroundColor" red="0.4912653287" green="1" blue="0.91975485329999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+            <color key="backgroundColor" red="1" green="0.65814783379999997" blue="0.98395949839999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
         </tableViewCell>
     </objects>
 </document>
